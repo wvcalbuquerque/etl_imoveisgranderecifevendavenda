@@ -1,0 +1,269 @@
+ 
+ 
+DEBUG: Using JAVA_HOME
+DEBUG: _PENTAHO_JAVA_HOME=C:\Program Files\Java\jdk1.8.0_241
+DEBUG: _PENTAHO_JAVA=C:\Program Files\Java\jdk1.8.0_241\bin\java.exe
+
+C:\Programas\pentaho\data-integration>"C:\Program Files\Java\jdk1.8.0_241\bin\java.exe"  "-Xms1024m" "-Xmx2048m" "-Dhttps.protocols=TLSv1,TLSv1.1,TLSv1.2" "-Djava.library.path=libswt\win64;/bin" "-Djava.endorsed.dirs=C:\Program Files\Java\jdk1.8.0_241\jre\lib\endorsed;C:\Program Files\Java\jdk1.8.0_241\lib\endorsed;C:\Programas\pentaho\data-integration\system\karaf\lib\endorsed" "-DKETTLE_HOME=" "-DKETTLE_REPOSITORY=" "-DKETTLE_USER=" "-DKETTLE_PASSWORD=" "-DKETTLE_PLUGIN_PACKAGES=" "-DKETTLE_LOG_SIZE_LIMIT=" "-DKETTLE_JNDI_ROOT=" -jar launcher\launcher.jar -lib ..\libswt\win64  -main org.pentaho.di.kitchen.Kitchen -initialDir "C:\Users\Walter Albuquerque\MW\Projetos\BI\biimoveisgranderecife\etl"\ /file:"C:\Users\Walter Albuquerque\MW\Projetos\BI\biimoveisgranderecife\etl\JOB.kjb" /level:Basic 
+16:24:05,300 INFO  [KarafBoot] Checking to see if org.pentaho.clean.karaf.cache is enabled
+ 
+ 
+DEBUG: Using JAVA_HOME
+DEBUG: _PENTAHO_JAVA_HOME=C:\Program Files\Java\jdk1.8.0_241
+DEBUG: _PENTAHO_JAVA=C:\Program Files\Java\jdk1.8.0_241\bin\java.exe
+
+C:\Programas\pentaho\data-integration>"C:\Program Files\Java\jdk1.8.0_241\bin\java.exe"  "-Xms1024m" "-Xmx2048m" "-Dhttps.protocols=TLSv1,TLSv1.1,TLSv1.2" "-Djava.library.path=libswt\win64;/bin" "-Djava.endorsed.dirs=C:\Program Files\Java\jdk1.8.0_241\jre\lib\endorsed;C:\Program Files\Java\jdk1.8.0_241\lib\endorsed;C:\Programas\pentaho\data-integration\system\karaf\lib\endorsed" "-DKETTLE_HOME=" "-DKETTLE_REPOSITORY=" "-DKETTLE_USER=" "-DKETTLE_PASSWORD=" "-DKETTLE_PLUGIN_PACKAGES=" "-DKETTLE_LOG_SIZE_LIMIT=" "-DKETTLE_JNDI_ROOT=" -jar launcher\launcher.jar -lib ..\libswt\win64  -main org.pentaho.di.kitchen.Kitchen -initialDir "C:\Users\Walter Albuquerque\MW\Projetos\BI\biimoveisgranderecife\etl"\ /file:"C:\Users\Walter Albuquerque\MW\Projetos\BI\biimoveisgranderecife\etl\JOB.kjb" /level:Basic 
+ 
+ 
+DEBUG: Using JAVA_HOME
+DEBUG: _PENTAHO_JAVA_HOME=C:\Program Files\Java\jdk1.8.0_241
+DEBUG: _PENTAHO_JAVA=C:\Program Files\Java\jdk1.8.0_241\bin\java.exe
+
+C:\Programas\pentaho\data-integration>"C:\Program Files\Java\jdk1.8.0_241\bin\java.exe"  "-Xms1024m" "-Xmx2048m" "-Dhttps.protocols=TLSv1,TLSv1.1,TLSv1.2" "-Djava.library.path=libswt\win64;/bin" "-Djava.endorsed.dirs=C:\Program Files\Java\jdk1.8.0_241\jre\lib\endorsed;C:\Program Files\Java\jdk1.8.0_241\lib\endorsed;C:\Programas\pentaho\data-integration\system\karaf\lib\endorsed" "-DKETTLE_HOME=" "-DKETTLE_REPOSITORY=" "-DKETTLE_USER=" "-DKETTLE_PASSWORD=" "-DKETTLE_PLUGIN_PACKAGES=" "-DKETTLE_LOG_SIZE_LIMIT=" "-DKETTLE_JNDI_ROOT=" -jar launcher\launcher.jar -lib ..\libswt\win64  -main org.pentaho.di.kitchen.Kitchen -initialDir "C:\Users\Walter Albuquerque\MW\Projetos\BI\biimoveisgranderecife\etl"\ /file:"C:\Users\Walter Albuquerque\MW\Projetos\BI\biimoveisgranderecife\etl\JOB.kjb" /level:Basic 
+16:24:46,415 INFO  [KarafBoot] Checking to see if org.pentaho.clean.karaf.cache is enabled
+ 
+ 
+DEBUG: Using JAVA_HOME
+DEBUG: _PENTAHO_JAVA_HOME=C:\Program Files\Java\jdk1.8.0_241
+DEBUG: _PENTAHO_JAVA=C:\Program Files\Java\jdk1.8.0_241\bin\java.exe
+
+C:\Programas\pentaho\data-integration>"C:\Program Files\Java\jdk1.8.0_241\bin\java.exe"  "-Xms1024m" "-Xmx2048m" "-Dhttps.protocols=TLSv1,TLSv1.1,TLSv1.2" "-Djava.library.path=libswt\win64;/bin" "-Djava.endorsed.dirs=C:\Program Files\Java\jdk1.8.0_241\jre\lib\endorsed;C:\Program Files\Java\jdk1.8.0_241\lib\endorsed;C:\Programas\pentaho\data-integration\system\karaf\lib\endorsed" "-DKETTLE_HOME=" "-DKETTLE_REPOSITORY=" "-DKETTLE_USER=" "-DKETTLE_PASSWORD=" "-DKETTLE_PLUGIN_PACKAGES=" "-DKETTLE_LOG_SIZE_LIMIT=" "-DKETTLE_JNDI_ROOT=" -jar launcher\launcher.jar -lib ..\libswt\win64  -main org.pentaho.di.kitchen.Kitchen -initialDir "C:\Users\Walter Albuquerque\MW\Projetos\BI\biimoveisgranderecife\etl"\ /file:"C:\Users\Walter Albuquerque\MW\Projetos\BI\biimoveisgranderecife\etl\JOB.kjb" /level:Basic 
+16:25:32,472 INFO  [KarafBoot] Checking to see if org.pentaho.clean.karaf.cache is enabled
+16:25:38,762 INFO  [KarafInstance] 
+*******************************************************************************
+*** Karaf Instance Number: 2 at C:\Programas\pentaho\data-integration\.\sys ***
+***   tem\karaf\caches\kitchen\data-1                                       ***
+*** Karaf Port:8803                                                         ***
+*** OSGI Service Port:9052                                                  ***
+*******************************************************************************
+2021/03/22 16:25:40 - Kitchen - Logging is at level : Log básico
+2021/03/22 16:25:40 - Kitchen - Start of run.
+16:26:18,630 INFO  [DriverManager] Installing driver kars.
+16:26:18,633 INFO  [DriverManager] 0 drivers will be installed.
+16:26:18,634 INFO  [DriverManager] Finished installing drivers kars.
+2021/03/22 16:26:18 - JOB - Início da execução do job
+2021/03/22 16:26:18 - JOB - Starting entry [Transformation]
+2021/03/22 16:26:18 - Transformation - Using run configuration [Pentaho local]
+2021/03/22 16:26:18 - Transformation - Running transformation using the Kettle execution engine
+2021/03/22 16:26:18 - ETL - Expedindo in?cio para transforma??o [ETL]
+2021/03/22 16:26:19 - MongoDB input.0 - Configuring connection with read preference: primary
+2021/03/22 16:26:19 - MongoDB input.0 - No read preference tag sets defined
+2021/03/22 16:26:19 - MongoDB input.0 - Configuring connection with write concern - w = 1, wTimeout = 0, journaled = false
+2021/03/22 16:26:19 - MongoDB input.0 - Query pulled data from: localhost:27017
+2021/03/22 16:26:20 - MongoDB input.0 - Finished processing (I=0, O=0, R=0, W=7564, U=0, E=0)
+2021/03/22 16:26:20 - Replace in string.0 - Finished processing (I=0, O=0, R=7564, W=7564, U=0, E=0)
+2021/03/22 16:26:20 - Filter rows.0 - Finished processing (I=0, O=0, R=7564, W=7304, U=0, E=0)
+2021/03/22 16:26:20 - Select values.0 - Finished processing (I=0, O=0, R=7304, W=7304, U=0, E=0)
+2021/03/22 16:26:20 - If field value is null.0 - Finished processing (I=0, O=0, R=7304, W=7304, U=0, E=0)
+2021/03/22 16:26:20 - Text file output.0 - Finished processing (I=0, O=7305, R=7304, W=7304, U=0, E=0)
+2021/03/22 16:26:20 - Carte - Installing timer to purge stale objects after 1440 minutes.
+2021/03/22 16:26:20 - JOB - Finished job entry [Transformation] (result=[true])
+2021/03/22 16:26:20 - JOB - Job execution finished
+2021/03/22 16:26:20 - Finished!
+2021/03/22 16:26:20 - Start=2021/03/22 16:26:18.742, Stop=2021/03/22 16:26:20.468
+2021/03/22 16:26:20 - Processing ended after 1 seconds.
+ 
+ 
+DEBUG: Using JAVA_HOME
+DEBUG: _PENTAHO_JAVA_HOME=C:\Program Files\Java\jdk1.8.0_241
+DEBUG: _PENTAHO_JAVA=C:\Program Files\Java\jdk1.8.0_241\bin\java.exe
+
+C:\Programas\pentaho\data-integration>"C:\Program Files\Java\jdk1.8.0_241\bin\java.exe"  "-Xms1024m" "-Xmx2048m" "-Dhttps.protocols=TLSv1,TLSv1.1,TLSv1.2" "-Djava.library.path=libswt\win64;/bin" "-Djava.endorsed.dirs=C:\Program Files\Java\jdk1.8.0_241\jre\lib\endorsed;C:\Program Files\Java\jdk1.8.0_241\lib\endorsed;C:\Programas\pentaho\data-integration\system\karaf\lib\endorsed" "-DKETTLE_HOME=" "-DKETTLE_REPOSITORY=" "-DKETTLE_USER=" "-DKETTLE_PASSWORD=" "-DKETTLE_PLUGIN_PACKAGES=" "-DKETTLE_LOG_SIZE_LIMIT=" "-DKETTLE_JNDI_ROOT=" -jar launcher\launcher.jar -lib ..\libswt\win64  -main org.pentaho.di.kitchen.Kitchen -initialDir "C:\Users\Walter Albuquerque\MW\Projetos\BI\biimoveisgranderecife\etl"\ /file:"C:\Users\Walter Albuquerque\MW\Projetos\BI\biimoveisgranderecife\etl\JOB.kjb" /level:Basic 
+16:27:02,618 INFO  [KarafBoot] Checking to see if org.pentaho.clean.karaf.cache is enabled
+16:27:08,877 INFO  [KarafInstance] 
+*******************************************************************************
+*** Karaf Instance Number: 2 at C:\Programas\pentaho\data-integration\.\sys ***
+***   tem\karaf\caches\kitchen\data-1                                       ***
+*** Karaf Port:8803                                                         ***
+*** OSGI Service Port:9052                                                  ***
+*******************************************************************************
+2021/03/22 16:27:12 - Kitchen - Logging is at level : Log básico
+2021/03/22 16:27:12 - Kitchen - Start of run.
+16:27:17,015 INFO  [DriverManager] Installing driver kars.
+16:27:17,017 INFO  [DriverManager] 0 drivers will be installed.
+16:27:17,018 INFO  [DriverManager] Finished installing drivers kars.
+2021/03/22 16:27:20 - JOB - Início da execução do job
+2021/03/22 16:27:20 - JOB - Starting entry [Transformation]
+2021/03/22 16:27:20 - Transformation - Using run configuration [Pentaho local]
+2021/03/22 16:27:20 - Transformation - Running transformation using the Kettle execution engine
+2021/03/22 16:27:20 - ETL - Expedindo in?cio para transforma??o [ETL]
+2021/03/22 16:27:21 - MongoDB input.0 - Configuring connection with read preference: primary
+2021/03/22 16:27:21 - MongoDB input.0 - No read preference tag sets defined
+2021/03/22 16:27:21 - MongoDB input.0 - Configuring connection with write concern - w = 1, wTimeout = 0, journaled = false
+2021/03/22 16:27:21 - MongoDB input.0 - Query pulled data from: localhost:27017
+2021/03/22 16:27:22 - MongoDB input.0 - Finished processing (I=0, O=0, R=0, W=7564, U=0, E=0)
+2021/03/22 16:27:22 - Replace in string.0 - Finished processing (I=0, O=0, R=7564, W=7564, U=0, E=0)
+2021/03/22 16:27:22 - Filter rows.0 - Finished processing (I=0, O=0, R=7564, W=7304, U=0, E=0)
+2021/03/22 16:27:22 - Select values.0 - Finished processing (I=0, O=0, R=7304, W=7304, U=0, E=0)
+2021/03/22 16:27:22 - If field value is null.0 - Finished processing (I=0, O=0, R=7304, W=7304, U=0, E=0)
+2021/03/22 16:27:22 - Text file output.0 - Finished processing (I=0, O=7305, R=7304, W=7304, U=0, E=0)
+2021/03/22 16:27:22 - Carte - Installing timer to purge stale objects after 1440 minutes.
+2021/03/22 16:27:22 - JOB - Finished job entry [Transformation] (result=[true])
+2021/03/22 16:27:22 - JOB - Job execution finished
+2021/03/22 16:27:22 - Finished!
+2021/03/22 16:27:22 - Start=2021/03/22 16:27:20.818, Stop=2021/03/22 16:27:22.435
+2021/03/22 16:27:22 - Processing ended after 1 seconds.
+ 
+ 
+DEBUG: Using JAVA_HOME
+DEBUG: _PENTAHO_JAVA_HOME=C:\Program Files\Java\jdk1.8.0_241
+DEBUG: _PENTAHO_JAVA=C:\Program Files\Java\jdk1.8.0_241\bin\java.exe
+
+C:\Programas\pentaho\data-integration>"C:\Program Files\Java\jdk1.8.0_241\bin\java.exe"  "-Xms1024m" "-Xmx2048m" "-Dhttps.protocols=TLSv1,TLSv1.1,TLSv1.2" "-Djava.library.path=libswt\win64;/bin" "-Djava.endorsed.dirs=C:\Program Files\Java\jdk1.8.0_241\jre\lib\endorsed;C:\Program Files\Java\jdk1.8.0_241\lib\endorsed;C:\Programas\pentaho\data-integration\system\karaf\lib\endorsed" "-DKETTLE_HOME=" "-DKETTLE_REPOSITORY=" "-DKETTLE_USER=" "-DKETTLE_PASSWORD=" "-DKETTLE_PLUGIN_PACKAGES=" "-DKETTLE_LOG_SIZE_LIMIT=" "-DKETTLE_JNDI_ROOT=" -jar launcher\launcher.jar -lib ..\libswt\win64  -main org.pentaho.di.kitchen.Kitchen -initialDir "C:\Users\Walter Albuquerque\MW\Projetos\BI\biimoveisgranderecife\etl"\ /file:"C:\Users\Walter Albuquerque\MW\Projetos\BI\biimoveisgranderecife\etl\JOB.kjb" /level:Basic 
+11:38:36,953 INFO  [KarafBoot] Checking to see if org.pentaho.clean.karaf.cache is enabled
+11:38:43,330 INFO  [KarafInstance] 
+*******************************************************************************
+*** Karaf Instance Number: 2 at C:\Programas\pentaho\data-integration\.\sys ***
+***   tem\karaf\caches\kitchen\data-1                                       ***
+*** Karaf Port:8803                                                         ***
+*** OSGI Service Port:9052                                                  ***
+*******************************************************************************
+2021/03/23 11:39:04 - Kitchen - Logging is at level : Log básico
+2021/03/23 11:39:04 - Kitchen - Start of run.
+11:39:13,169 INFO  [DriverManager] Installing driver kars.
+11:39:13,171 INFO  [DriverManager] 0 drivers will be installed.
+11:39:13,171 INFO  [DriverManager] Finished installing drivers kars.
+2021/03/23 11:39:22 - JOB - Início da execução do job
+2021/03/23 11:39:22 - JOB - Starting entry [Transformation]
+2021/03/23 11:39:22 - Transformation - Using run configuration [Pentaho local]
+2021/03/23 11:39:22 - Transformation - Running transformation using the Kettle execution engine
+2021/03/23 11:39:22 - ETL - Expedindo in?cio para transforma??o [ETL]
+2021/03/23 11:39:22 - MongoDB input.0 - Configuring connection with read preference: primary
+2021/03/23 11:39:22 - MongoDB input.0 - No read preference tag sets defined
+2021/03/23 11:39:22 - MongoDB input.0 - Configuring connection with write concern - w = 1, wTimeout = 0, journaled = false
+2021/03/23 11:39:23 - MongoDB input.0 - Query pulled data from: localhost:27017
+2021/03/23 11:39:25 - Replace in string.0 - Finished processing (I=0, O=0, R=8212, W=8212, U=0, E=0)
+2021/03/23 11:39:25 - MongoDB input.0 - Finished processing (I=0, O=0, R=0, W=8212, U=0, E=0)
+2021/03/23 11:39:25 - Filter rows.0 - Finished processing (I=0, O=0, R=8212, W=7929, U=0, E=0)
+2021/03/23 11:39:25 - Select values.0 - Finished processing (I=0, O=0, R=7929, W=7929, U=0, E=0)
+2021/03/23 11:39:25 - If field value is null.0 - Finished processing (I=0, O=0, R=7929, W=7929, U=0, E=0)
+2021/03/23 11:39:25 - Text file output.0 - Finished processing (I=0, O=7930, R=7929, W=7929, U=0, E=0)
+2021/03/23 11:39:25 - Carte - Installing timer to purge stale objects after 1440 minutes.
+2021/03/23 11:39:25 - JOB - Finished job entry [Transformation] (result=[true])
+2021/03/23 11:39:25 - JOB - Job execution finished
+2021/03/23 11:39:25 - Finished!
+2021/03/23 11:39:25 - Start=2021/03/23 11:39:22.376, Stop=2021/03/23 11:39:25.287
+2021/03/23 11:39:25 - Processing ended after 2 seconds.
+ 
+ 
+DEBUG: Using JAVA_HOME
+DEBUG: _PENTAHO_JAVA_HOME=C:\Program Files\Java\jdk1.8.0_241
+DEBUG: _PENTAHO_JAVA=C:\Program Files\Java\jdk1.8.0_241\bin\java.exe
+
+C:\Programas\pentaho\data-integration>"C:\Program Files\Java\jdk1.8.0_241\bin\java.exe"  "-Xms1024m" "-Xmx2048m" "-Dhttps.protocols=TLSv1,TLSv1.1,TLSv1.2" "-Djava.library.path=libswt\win64;/bin" "-Djava.endorsed.dirs=C:\Program Files\Java\jdk1.8.0_241\jre\lib\endorsed;C:\Program Files\Java\jdk1.8.0_241\lib\endorsed;C:\Programas\pentaho\data-integration\system\karaf\lib\endorsed" "-DKETTLE_HOME=" "-DKETTLE_REPOSITORY=" "-DKETTLE_USER=" "-DKETTLE_PASSWORD=" "-DKETTLE_PLUGIN_PACKAGES=" "-DKETTLE_LOG_SIZE_LIMIT=" "-DKETTLE_JNDI_ROOT=" -jar launcher\launcher.jar -lib ..\libswt\win64  -main org.pentaho.di.kitchen.Kitchen -initialDir "C:\Users\Walter Albuquerque\MW\Projetos\BI\biimoveisgranderecife\etl"\ /file:"C:\Users\Walter Albuquerque\MW\Projetos\BI\biimoveisgranderecife\etl\JOB.kjb" /level:Basic 
+14:51:42,058 INFO  [KarafBoot] Checking to see if org.pentaho.clean.karaf.cache is enabled
+14:51:48,347 INFO  [KarafInstance] 
+*******************************************************************************
+*** Karaf Instance Number: 1 at C:\Programas\pentaho\data-integration\.\sys ***
+***   tem\karaf\caches\kitchen\data-1                                       ***
+*** Karaf Port:8802                                                         ***
+*** OSGI Service Port:9051                                                  ***
+*******************************************************************************
+2021/03/24 14:52:13 - Kitchen - Logging is at level : Log básico
+2021/03/24 14:52:13 - Kitchen - Start of run.
+14:52:22,043 INFO  [DriverManager] Installing driver kars.
+14:52:22,048 INFO  [DriverManager] 0 drivers will be installed.
+14:52:22,052 INFO  [DriverManager] Finished installing drivers kars.
+2021/03/24 14:52:26 - JOB - Início da execução do job
+2021/03/24 14:52:26 - JOB - Starting entry [Transformation]
+2021/03/24 14:52:26 - Transformation - Using run configuration [Pentaho local]
+2021/03/24 14:52:26 - Transformation - Running transformation using the Kettle execution engine
+2021/03/24 14:52:26 - ETL - Expedindo in?cio para transforma??o [ETL]
+2021/03/24 14:52:27 - MongoDB input.0 - Configuring connection with read preference: primary
+2021/03/24 14:52:27 - MongoDB input.0 - No read preference tag sets defined
+2021/03/24 14:52:27 - MongoDB input.0 - Configuring connection with write concern - w = 1, wTimeout = 0, journaled = false
+2021/03/24 14:52:27 - MongoDB input.0 - Query pulled data from: localhost:27017
+2021/03/24 14:52:29 - MongoDB input.0 - Finished processing (I=0, O=0, R=0, W=9902, U=0, E=0)
+2021/03/24 14:52:29 - Replace in string.0 - Finished processing (I=0, O=0, R=9902, W=9902, U=0, E=0)
+2021/03/24 14:52:29 - Filter rows.0 - Finished processing (I=0, O=0, R=9902, W=9580, U=0, E=0)
+2021/03/24 14:52:29 - Select values.0 - Finished processing (I=0, O=0, R=9580, W=9580, U=0, E=0)
+2021/03/24 14:52:29 - If field value is null.0 - Finished processing (I=0, O=0, R=9580, W=9580, U=0, E=0)
+2021/03/24 14:52:29 - Text file output.0 - Finished processing (I=0, O=9581, R=9580, W=9580, U=0, E=0)
+2021/03/24 14:52:29 - Carte - Installing timer to purge stale objects after 1440 minutes.
+2021/03/24 14:52:29 - JOB - Finished job entry [Transformation] (result=[true])
+2021/03/24 14:52:29 - JOB - Job execution finished
+2021/03/24 14:52:29 - Finished!
+2021/03/24 14:52:29 - Start=2021/03/24 14:52:26.660, Stop=2021/03/24 14:52:29.211
+2021/03/24 14:52:29 - Processing ended after 2 seconds.
+ 
+ 
+DEBUG: Using JAVA_HOME
+DEBUG: _PENTAHO_JAVA_HOME=C:\Program Files\Java\jdk1.8.0_241
+DEBUG: _PENTAHO_JAVA=C:\Program Files\Java\jdk1.8.0_241\bin\java.exe
+
+C:\Programas\pentaho\data-integration>"C:\Program Files\Java\jdk1.8.0_241\bin\java.exe"  "-Xms1024m" "-Xmx2048m" "-Dhttps.protocols=TLSv1,TLSv1.1,TLSv1.2" "-Djava.library.path=libswt\win64;/bin" "-Djava.endorsed.dirs=C:\Program Files\Java\jdk1.8.0_241\jre\lib\endorsed;C:\Program Files\Java\jdk1.8.0_241\lib\endorsed;C:\Programas\pentaho\data-integration\system\karaf\lib\endorsed" "-DKETTLE_HOME=" "-DKETTLE_REPOSITORY=" "-DKETTLE_USER=" "-DKETTLE_PASSWORD=" "-DKETTLE_PLUGIN_PACKAGES=" "-DKETTLE_LOG_SIZE_LIMIT=" "-DKETTLE_JNDI_ROOT=" -jar launcher\launcher.jar -lib ..\libswt\win64  -main org.pentaho.di.kitchen.Kitchen -initialDir "C:\Users\Walter Albuquerque\MW\Projetos\BI\biimoveisgranderecife\etl"\ /file:"C:\Users\Walter Albuquerque\MW\Projetos\BI\biimoveisgranderecife\etl\JOB.kjb" /level:Basic 
+17:06:42,727 INFO  [KarafBoot] Checking to see if org.pentaho.clean.karaf.cache is enabled
+17:06:49,005 INFO  [KarafInstance] 
+*******************************************************************************
+*** Karaf Instance Number: 1 at C:\Programas\pentaho\data-integration\.\sys ***
+***   tem\karaf\caches\kitchen\data-1                                       ***
+*** Karaf Port:8802                                                         ***
+*** OSGI Service Port:9051                                                  ***
+*******************************************************************************
+2021/03/24 17:07:09 - Kitchen - Logging is at level : Log básico
+2021/03/24 17:07:09 - Kitchen - Start of run.
+17:07:17,628 INFO  [DriverManager] Installing driver kars.
+17:07:17,635 INFO  [DriverManager] 0 drivers will be installed.
+17:07:17,636 INFO  [DriverManager] Finished installing drivers kars.
+2021/03/24 17:07:22 - JOB - Início da execução do job
+2021/03/24 17:07:22 - JOB - Starting entry [Transformation]
+2021/03/24 17:07:22 - Transformation - Using run configuration [Pentaho local]
+2021/03/24 17:07:22 - Transformation - Running transformation using the Kettle execution engine
+2021/03/24 17:07:22 - ETL - Expedindo in?cio para transforma??o [ETL]
+2021/03/24 17:07:22 - MongoDB input.0 - Configuring connection with read preference: primary
+2021/03/24 17:07:22 - MongoDB input.0 - No read preference tag sets defined
+2021/03/24 17:07:22 - MongoDB input.0 - Configuring connection with write concern - w = 1, wTimeout = 0, journaled = false
+2021/03/24 17:07:23 - MongoDB input.0 - Query pulled data from: localhost:27017
+2021/03/24 17:07:25 - MongoDB input.0 - Finished processing (I=0, O=0, R=0, W=10243, U=0, E=0)
+2021/03/24 17:07:25 - Replace in string.0 - Finished processing (I=0, O=0, R=10243, W=10243, U=0, E=0)
+2021/03/24 17:07:25 - Filter rows.0 - Finished processing (I=0, O=0, R=10243, W=9909, U=0, E=0)
+2021/03/24 17:07:25 - Select values.0 - Finished processing (I=0, O=0, R=9909, W=9909, U=0, E=0)
+2021/03/24 17:07:25 - If field value is null.0 - Finished processing (I=0, O=0, R=9909, W=9909, U=0, E=0)
+2021/03/24 17:07:25 - Text file output.0 - Finished processing (I=0, O=9910, R=9909, W=9909, U=0, E=0)
+2021/03/24 17:07:25 - Carte - Installing timer to purge stale objects after 1440 minutes.
+2021/03/24 17:07:25 - JOB - Finished job entry [Transformation] (result=[true])
+2021/03/24 17:07:25 - JOB - Job execution finished
+2021/03/24 17:07:25 - Finished!
+2021/03/24 17:07:25 - Start=2021/03/24 17:07:22.471, Stop=2021/03/24 17:07:25.555
+2021/03/24 17:07:25 - Processing ended after 3 seconds.
+ 
+ 
+DEBUG: Using JAVA_HOME
+DEBUG: _PENTAHO_JAVA_HOME=C:\Program Files\Java\jdk1.8.0_241
+DEBUG: _PENTAHO_JAVA=C:\Program Files\Java\jdk1.8.0_241\bin\java.exe
+
+C:\Programas\pentaho\data-integration>"C:\Program Files\Java\jdk1.8.0_241\bin\java.exe"  "-Xms1024m" "-Xmx2048m" "-Dhttps.protocols=TLSv1,TLSv1.1,TLSv1.2" "-Djava.library.path=libswt\win64;/bin" "-Djava.endorsed.dirs=C:\Program Files\Java\jdk1.8.0_241\jre\lib\endorsed;C:\Program Files\Java\jdk1.8.0_241\lib\endorsed;C:\Programas\pentaho\data-integration\system\karaf\lib\endorsed" "-DKETTLE_HOME=" "-DKETTLE_REPOSITORY=" "-DKETTLE_USER=" "-DKETTLE_PASSWORD=" "-DKETTLE_PLUGIN_PACKAGES=" "-DKETTLE_LOG_SIZE_LIMIT=" "-DKETTLE_JNDI_ROOT=" -jar launcher\launcher.jar -lib ..\libswt\win64  -main org.pentaho.di.kitchen.Kitchen -initialDir "C:\Users\Walter Albuquerque\MW\Projetos\BI\biimoveisgranderecife\etl"\ /file:"C:\Users\Walter Albuquerque\MW\Projetos\BI\biimoveisgranderecife\etl\JOB.kjb" /level:Basic 
+11:49:17,986 INFO  [KarafBoot] Checking to see if org.pentaho.clean.karaf.cache is enabled
+11:49:24,276 INFO  [KarafInstance] 
+*******************************************************************************
+*** Karaf Instance Number: 1 at C:\Programas\pentaho\data-integration\.\sys ***
+***   tem\karaf\caches\kitchen\data-1                                       ***
+*** Karaf Port:8802                                                         ***
+*** OSGI Service Port:9051                                                  ***
+*******************************************************************************
+2021/03/28 11:49:44 - Kitchen - Logging is at level : Log básico
+2021/03/28 11:49:44 - Kitchen - Start of run.
+11:49:53,556 INFO  [DriverManager] Installing driver kars.
+11:49:53,559 INFO  [DriverManager] 0 drivers will be installed.
+11:49:53,560 INFO  [DriverManager] Finished installing drivers kars.
+2021/03/28 11:49:57 - JOB - Início da execução do job
+2021/03/28 11:49:57 - JOB - Starting entry [Transformation]
+2021/03/28 11:49:57 - Transformation - Using run configuration [Pentaho local]
+2021/03/28 11:49:57 - Transformation - Running transformation using the Kettle execution engine
+2021/03/28 11:49:57 - ETL - Expedindo in?cio para transforma??o [ETL]
+2021/03/28 11:49:58 - MongoDB input.0 - Configuring connection with read preference: primary
+2021/03/28 11:49:58 - MongoDB input.0 - No read preference tag sets defined
+2021/03/28 11:49:58 - MongoDB input.0 - Configuring connection with write concern - w = 1, wTimeout = 0, journaled = false
+2021/03/28 11:49:58 - MongoDB input.0 - Query pulled data from: localhost:27017
+2021/03/28 11:50:00 - MongoDB input.0 - Finished processing (I=0, O=0, R=0, W=13700, U=0, E=0)
+2021/03/28 11:50:00 - Replace in string.0 - Finished processing (I=0, O=0, R=13700, W=13700, U=0, E=0)
+2021/03/28 11:50:00 - Filter rows.0 - Finished processing (I=0, O=0, R=13700, W=13295, U=0, E=0)
+2021/03/28 11:50:00 - Select values.0 - Finished processing (I=0, O=0, R=13295, W=13295, U=0, E=0)
+2021/03/28 11:50:00 - If field value is null.0 - Finished processing (I=0, O=0, R=13295, W=13295, U=0, E=0)
+2021/03/28 11:50:00 - Text file output.0 - Finished processing (I=0, O=13296, R=13295, W=13295, U=0, E=0)
+2021/03/28 11:50:00 - Carte - Installing timer to purge stale objects after 1440 minutes.
+2021/03/28 11:50:00 - JOB - Finished job entry [Transformation] (result=[true])
+2021/03/28 11:50:00 - JOB - Job execution finished
+2021/03/28 11:50:00 - Finished!
+2021/03/28 11:50:00 - Start=2021/03/28 11:49:57.698, Stop=2021/03/28 11:50:00.956
+2021/03/28 11:50:00 - Processing ended after 3 seconds.
