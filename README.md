@@ -12,6 +12,6 @@ Projeto de portfólio demonstrando a construção de um ETL para organização d
 ### Pré requisitos:
 Pentaho Data Integration - 9.1 ou superior
 
-#### Transfomarção construída:
+#### Transformação construída:
 ![Legenda](https://github.com/wvcalbuquerque/etl_imoveisgranderecifevendavenda/blob/main/img/ETL.fw.png)
 
