@@ -13,4 +13,5 @@ Projeto de portfólio demonstrando a construção de um ETL para organização d
 Pentaho Data Integration - 9.1 ou superior
 
 #### Transfomarção construída:
-![Legenda](https://github.com/wvcalbuquerque/coletadados_imoveisgranderecifevendavenda/blob/main/img/exemplo_documento.jpg)
+![Legenda](https://github.com/wvcalbuquerque/etl_imoveisgranderecifevendavenda/blob/main/img/ETL.fw.png)
+
